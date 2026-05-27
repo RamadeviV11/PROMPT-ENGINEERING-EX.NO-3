@@ -1,6 +1,6 @@
 # Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques for the the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
-# NAME: RAMADEVI V                                                                    
+# DATE: 26.05.2026                                                                  
 
 # REGISTER NUMBER :212224060208
 
